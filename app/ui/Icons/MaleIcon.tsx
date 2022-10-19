@@ -1,4 +1,4 @@
-import {IStyles} from "../../../types/main";
+import {IStyles} from "~/types/main";
 
 export default function MaleIcon({styles}: IStyles) {
   return (
