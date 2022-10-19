@@ -1,6 +1,6 @@
 import {IStyles} from "../../../types/main";
 
-export default function FemaleIcon({styles}:IStyles) {
+export default function FemaleIcon({styles}: IStyles) {
   return (
     <svg className={styles} viewBox="0 0 60 60">
       <path
